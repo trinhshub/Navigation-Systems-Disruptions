@@ -20,7 +20,7 @@ Thus, in this survey, we seek to understand how various drivers react to route c
  
 Again, thank you very much for participating in this survey.
 
-[Go to Survey Page](https://utexas.qualtrics.com/jfe/form/SV_3l96TVLip3Ou0Ad)
+[Go to Survey Questionnaire](https://utexas.qualtrics.com/jfe/form/SV_3l96TVLip3Ou0Ad)
 
 ***
 

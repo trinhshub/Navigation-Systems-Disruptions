@@ -1,6 +1,8 @@
 # Navigation Systems Disruptions
 
 [Go Back to Main](https://trinhshub.github.io/)
+
+This project consists of two stages: A Survey to collect driving behaviors and a network simulation to measure the collective impacts.
  
 **Survey Description**
 

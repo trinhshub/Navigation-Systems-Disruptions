@@ -3,6 +3,7 @@
 [Go Back to Main](https://trinhshub.github.io/)
  
 **Survey Description**
+
 Smartphone-based navigation applications (apps) such as Google Maps, Waze, and Apple Maps have immense influence on our day-to-day trip decisions. May it be choosing the nearest restaurant from our apartment on a Friday evening or the shortest route to our workplace on weekdays, we all end up using these apps on a daily basis.
  
 Even though several alternatives to these smartphone apps exist, including offline GPS-based navigation devices and radio traffic updates, the apps are much more popular as smartphones have been integrated heavily into our daily life. Moreover, smartphone apps are updated frequently, so new features that aid ease of navigation come up at zero cost to us. Remember Google Maps adding the speed limit feature some months ago? Inexpensive, accessible, and effective - there seems to be no reason not to use them.

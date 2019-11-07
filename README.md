@@ -1,5 +1,9 @@
 # Navigation Systems Disruptions
-  
+
+[Go to Survey Page](https://utexas.qualtrics.com/jfe/form/SV_3l96TVLip3Ou0Ad)
+
+[Go Back to Main](https://trinhshub.github.io/)
+ 
 ***
 Smartphone-based navigation applications (apps) such as Google Maps, Waze, and Apple Maps have immense influence on our day-to-day trip decisions. May it be choosing the nearest restaurant from our apartment on a Friday evening or the shortest route to our workplace on weekdays, we all end up using these apps on a daily basis.
  
@@ -14,7 +18,6 @@ Thus, in this survey, we seek to understand how various drivers react to route c
 ***
 Again, thank you very much for participating in this survey.
 
-[Go Back to Survey Page](https://utexas.qualtrics.com/jfe/form/SV_3l96TVLip3Ou0Ad)
 
 ## Network Modeling
 There are several projects within this field that I conducted:

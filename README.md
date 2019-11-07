@@ -1,10 +1,8 @@
 # Navigation Systems Disruptions
 
-[Go to Survey Page](https://utexas.qualtrics.com/jfe/form/SV_3l96TVLip3Ou0Ad)
-
 [Go Back to Main](https://trinhshub.github.io/)
  
-***
+**Survey Description**
 Smartphone-based navigation applications (apps) such as Google Maps, Waze, and Apple Maps have immense influence on our day-to-day trip decisions. May it be choosing the nearest restaurant from our apartment on a Friday evening or the shortest route to our workplace on weekdays, we all end up using these apps on a daily basis.
  
 Even though several alternatives to these smartphone apps exist, including offline GPS-based navigation devices and radio traffic updates, the apps are much more popular as smartphones have been integrated heavily into our daily life. Moreover, smartphone apps are updated frequently, so new features that aid ease of navigation come up at zero cost to us. Remember Google Maps adding the speed limit feature some months ago? Inexpensive, accessible, and effective - there seems to be no reason not to use them.
@@ -18,29 +16,12 @@ Thus, in this survey, we seek to understand how various drivers react to route c
 ***
 Again, thank you very much for participating in this survey.
 
+[Go to Survey Page](https://utexas.qualtrics.com/jfe/form/SV_3l96TVLip3Ou0Ad)
 
-## Network Modeling
-There are several projects within this field that I conducted:
-1  Agent-based Modeling: Simulating Downtown Austin Network using Anylogic
-This project is still in progress, but the goal is to estimate the effect of disruptions to the transportation network caused by failures of real-time navigation and the GPS.
+**Network Simulation**
 
-Network Scope
+Case Study Scope: Downtown Austin Network
 
 <img width="325" alt="image" src="https://user-images.githubusercontent.com/47671910/64622074-5b3beb80-d3ac-11e9-83d6-7245d04bbd37.png">
-
-2  Python Programing: Measuring the Effects of Operating Navigation Apps on the Network
-This project uses Python to simulate a network with drivers with access to real-time data before their trips (at time t0), during their trips (at time t1), and with no access.
-
-System Diagram
-
-<img width="700" alt="image" src="https://user-images.githubusercontent.com/47671910/60152923-328e5780-97a8-11e9-8d53-c85c3e86f7e7.png">
-
-Case Study
-
-<img width="320" alt="image" src="https://user-images.githubusercontent.com/47671910/60152282-7fbcfa00-97a5-11e9-8436-003471ee4eb0.png"> <img width="320" alt="image" src="https://user-images.githubusercontent.com/47671910/60152480-4638be80-97a6-11e9-88b9-4e4f401b8dec.png">
-
-Results from running the simulations:
-1. More people with real-time data access will increase flow efficiency (decrease average travel time in the whole system).
-2. No difference between accessing the data before or during the trips.
 
  

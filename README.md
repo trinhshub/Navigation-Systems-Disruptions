@@ -3,7 +3,9 @@
 [Go Back to Main](https://trinhshub.github.io/)
 
 This project consists of two stages: A Survey to collect driving behaviors and a network simulation to measure the collective impacts.
- 
+
+***
+
 **Survey Description**
 
 Smartphone-based navigation applications (apps) such as Google Maps, Waze, and Apple Maps have immense influence on our day-to-day trip decisions. May it be choosing the nearest restaurant from our apartment on a Friday evening or the shortest route to our workplace on weekdays, we all end up using these apps on a daily basis.
@@ -16,10 +18,11 @@ These incidents happen more frequently in the cities and could be triggered by a
  
 Thus, in this survey, we seek to understand how various drivers react to route choice uncertainties arising from functional disruptions of such in-vehicle real-time navigation systems. The survey also explores the potential trip-related decisions made by drivers during the span of the disruption.
  
-***
 Again, thank you very much for participating in this survey.
 
 [Go to Survey Page](https://utexas.qualtrics.com/jfe/form/SV_3l96TVLip3Ou0Ad)
+
+***
 
 **Network Simulation**
 

@@ -1,4 +1,4 @@
-# Navigation-Systems-Disruptions
+# Navigation Systems Disruptions
   
 ***
 Smartphone-based navigation applications (apps) such as Google Maps, Waze, and Apple Maps have immense influence on our day-to-day trip decisions. May it be choosing the nearest restaurant from our apartment on a Friday evening or the shortest route to our workplace on weekdays, we all end up using these apps on a daily basis.

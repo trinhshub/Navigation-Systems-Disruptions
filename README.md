@@ -26,6 +26,6 @@ Go to [Survey Questionnaire](https://utexas.qualtrics.com/jfe/form/SV_3l96TVLip3
 
 Case Study Scope: Downtown Austin Network
 
-<img width="325" alt="image" src="https://user-images.githubusercontent.com/47671910/64622074-5b3beb80-d3ac-11e9-83d6-7245d04bbd37.png">
+<img width="625" alt="image" src="https://user-images.githubusercontent.com/47671910/64622074-5b3beb80-d3ac-11e9-83d6-7245d04bbd37.png">
 
  

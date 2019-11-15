@@ -25,6 +25,7 @@ Go to [Survey Questionnaire](https://utexas.qualtrics.com/jfe/form/SV_3l96TVLip3
 **Network Simulation**
 
 Case Study Scope: Downtown Austin Network
+Agent-based Modeling Software: Anylogic
 
 <img width="625" alt="image" src="https://user-images.githubusercontent.com/47671910/64622074-5b3beb80-d3ac-11e9-83d6-7245d04bbd37.png">
 

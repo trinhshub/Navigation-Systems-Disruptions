@@ -5,7 +5,7 @@ This project consists of two stages: A Survey to collect driving behaviors and a
 **Methodological Framework**
 
 <p align="center">
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/47671910/71696809-9d35d680-2d7b-11ea-8feb-6c759f797a9b.png">
+ <img width="600" alt="image" src="https://user-images.githubusercontent.com/47671910/71696809-9d35d680-2d7b-11ea-8feb-6c759f797a9b.png">
 <p/>
 
 **Network Simulation**
@@ -15,7 +15,7 @@ Case Study Scope: Downtown Austin Network
 Agent-based Modeling Software: Anylogic
 
 <p align="center">
-<img width="625" alt="image" src="https://user-images.githubusercontent.com/47671910/64622074-5b3beb80-d3ac-11e9-83d6-7245d04bbd37.png">
+ <img width="625" alt="image" src="https://user-images.githubusercontent.com/47671910/64622074-5b3beb80-d3ac-11e9-83d6-7245d04bbd37.png">
 <p/>
 
 **Survey Description**
